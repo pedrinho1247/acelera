@@ -7,7 +7,7 @@ Para utilizar este projeto, você só precisa ter um interpretador Python instal
 ## Como utilizar
 1. Clone este repositório em seu ambiente local:
 
-        git clone https://github.com/seu-usuario/acelera.git
+        git clone https://github.com/pedrinho1247/acelera.git
 
 2. Navegue até o diretório do projeto
 
